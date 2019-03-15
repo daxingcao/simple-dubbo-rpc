@@ -1,0 +1,15 @@
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/test/Teacher.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/producer/DubboProducerServer.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/package-info.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/customer/InterfaceClassDynamicProxy.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/factory/ProducerConfiguration.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/factory/ProducerRegisterFactory.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/test/CustomerTest.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/test/Position.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/annotation/Producer.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/customer/DubboCustomerClient.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/annotation/RegisterMethod.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/test/HelloWorld.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/annotation/DubboWrite.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/test/Person.java
+/Users/daxingcao/Documents/git/project/middleware/simple-dubbo-all/src/main/java/com/caodaxing/dubbo/producer/DubboProducerClient.java

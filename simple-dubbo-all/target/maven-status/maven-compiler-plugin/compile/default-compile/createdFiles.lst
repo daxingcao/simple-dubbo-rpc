@@ -1,0 +1,15 @@
+com/caodaxing/dubbo/test/Teacher.class
+com/caodaxing/dubbo/factory/ProducerConfiguration$ProducerConfigurationBuilder.class
+com/caodaxing/dubbo/annotation/Producer.class
+com/caodaxing/dubbo/factory/ProducerRegisterFactory.class
+com/caodaxing/dubbo/customer/DubboCustomerClient.class
+com/caodaxing/dubbo/test/HelloWorld.class
+com/caodaxing/dubbo/test/Person.class
+com/caodaxing/dubbo/annotation/DubboWrite.class
+com/caodaxing/dubbo/producer/DubboProducerServer.class
+com/caodaxing/dubbo/test/Position.class
+com/caodaxing/dubbo/annotation/RegisterMethod.class
+com/caodaxing/dubbo/customer/InterfaceClassDynamicProxy.class
+com/caodaxing/dubbo/test/CustomerTest.class
+com/caodaxing/dubbo/producer/DubboProducerClient.class
+com/caodaxing/dubbo/factory/ProducerConfiguration.class
